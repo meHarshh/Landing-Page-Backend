@@ -11,7 +11,7 @@ import com.prop.landing.entity.User;
 import com.prop.landing.service.UserService;
 import com.prop.landing.util.ResponseStructure;
 
-@CrossOrigin(value = "http://localhost:5173/" , allowCredentials = "true")
+@CrossOrigin(value = "http://sattvalumina.assetsglobal.in/" , allowCredentials = "true")
 @RestController
 public class UserController {
 
